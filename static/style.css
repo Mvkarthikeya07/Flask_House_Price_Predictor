@@ -1,0 +1,14 @@
+body {
+    background: #f8f9fa;
+    font-family: Arial, sans-serif;
+}
+
+input.form-control {
+    border-radius: 8px;
+}
+
+button.btn-primary {
+    border-radius: 8px;
+    background: linear-gradient(to right, #007bff, #00b4d8);
+    border: none;
+}
