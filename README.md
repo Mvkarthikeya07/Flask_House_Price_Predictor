@@ -137,6 +137,10 @@ HTML / CSS
 
 Pull requests, improvements, and suggestions are always welcome!
 
+📜 License
+
+This project is licensed under the MIT License.
+
 ⭐ Support
 
 If you found this project helpful, please give the repository a ⭐ to support the work!
