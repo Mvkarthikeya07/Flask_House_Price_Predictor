@@ -1,4 +1,4 @@
-🏡 House Price Prediction – Flask Web App
+🏡 Machine Learning–Based House Price Prediction System with Web Deployment
 
 A complete Machine Learning + Flask web application that predicts house prices using key property parameters such as area, quality, bedrooms, bathrooms, and garage capacity.
 
