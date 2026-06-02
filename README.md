@@ -16,8 +16,6 @@
 
 <br/>
 
-![Project Banner](https://github.com/user-attachments/assets/922d36db-1155-4105-ac49-ce029ee3e461)
-
 </div>
 
 ---
