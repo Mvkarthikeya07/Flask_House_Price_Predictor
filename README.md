@@ -16,7 +16,7 @@
 
 <br/>
 
-![Project Banner](screenshots/homepage.jpg)
+![Project Banner](https://github.com/user-attachments/assets/922d36db-1155-4105-ac49-ce029ee3e461)
 
 </div>
 
@@ -288,13 +288,13 @@ The Linear Regression baseline achieves the following on the Ames Housing Datase
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](screenshots/homepage.jpg)
+![Home Page](https://github.com/user-attachments/assets/922d36db-1155-4105-ac49-ce029ee3e461)
 
 ### 📝 Input Form
-![Input Form](screenshots/form.jpg)
+![Input Form](https://github.com/user-attachments/assets/2e64411f-0430-4a3d-8b51-03db12738d91)
 
 ### 📊 Prediction Result
-![Prediction Result](screenshots/result.jpg)
+![Prediction Result](https://github.com/user-attachments/assets/2e64411f-0430-4a3d-8b51-03db12738d91)
 
 ---
 
