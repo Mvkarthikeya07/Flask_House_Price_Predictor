@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏡 House Price Prediction — End-to-End ML Pipeline & Web Deployment
+# 🏡 End-to-End-House-Price-Prediction-Using-Supervised-Regression-Models-and-Web-Based-Deployment
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Flask](https://img.shields.io/badge/Flask-2.x-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com)
